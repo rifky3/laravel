@@ -3,11 +3,11 @@ php:
   disabled:
     - unused_use
   finder:
-    not-name:
+   Tugas-name:
       - index.php
       - server.php
 js:
   finder:
-    not-name:
+  Tugas-name:
       - webpack.mix.js
 css: true
